@@ -80,3 +80,24 @@ Understanding the design properties of a mockup is critical for several reasons:
 4. **Accessibility**: Helps maintain readability and usability across different platforms and devices.
 
 By clearly defining color styles, typography, and other design elements, we can maintain a cohesive and user-friendly design throughout the project.
+
+## Project Roles and Responsibilities
+
+In the development of the AirBnB Clone project, each team member plays a specific role that contributes to the project's success. Below are the key roles and their responsibilities:
+
+### Roles and Responsibilities
+
+| **Role**              | **Key Responsibilities**                                                                                                         | **Contribution to Project Success**                                                                                      |
+|-----------------------|-------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------|
+| **Project Manager**   | - Define project scope and objectives<br>- Develop timelines and ensure deadlines are met<br>- Facilitate communication among team members | Keeps the project on track and ensures alignment with goals.                                                             |
+| **Frontend Developers** | - Build and maintain the user interface using modern technologies<br>- Ensure responsiveness and cross-browser compatibility<br>- Integrate UI with back-end APIs | Creates an engaging and user-friendly application interface.                                                             |
+| **Backend Developers** | - Develop and maintain the server, database, and APIs<br>- Implement business logic and ensure data security<br>- Optimize for performance and scalability | Powers the application with reliable and efficient back-end systems.                                                    |
+| **Designers**         | - Create mockups and prototypes<br>- Define the visual style (color schemes, typography, icons)<br>- Ensure accessibility standards are met | Provides the foundation for a visually appealing and consistent application.                                             |
+| **QA/Testers**        | - Test the application for bugs and usability issues<br>- Conduct manual and automated testing<br>- Verify fixes and regression issues | Ensures the application is functional, reliable, and meets user expectations.                                           |
+| **DevOps Engineers**  | - Set up and manage CI/CD pipelines<br>- Deploy applications to production environments<br>- Monitor and troubleshoot deployment issues | Ensures smooth and reliable deployment, reducing downtime and errors.                                                   |
+| **Product Owner**     | - Define and prioritize features and requirements<br>- Act as a liaison between stakeholders and the development team<br>- Accept completed work | Aligns the development process with business goals and user needs.                                                      |
+| **Scrum Master**      | - Facilitate Scrum ceremonies (daily stand-ups, sprint planning, retrospectives)<br>- Remove roadblocks for the team<br>- Ensure agile practices are followed | Promotes collaboration and ensures the team remains productive and aligned with agile principles.                        |
+
+### Summary
+Each role is integral to the project’s success. By clearly defining these responsibilities, the team can collaborate effectively, minimize overlap, and ensure that every aspect of the project is given proper attention. This structure fosters a productive and efficient development environment, ultimately delivering a high-quality application.
+
