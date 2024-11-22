@@ -20,7 +20,7 @@ This project is a clone of the AirBnB website, designed to provide a similar use
    ```bash
    git clone https://github.com/your-username/airbnb-clone-project.git
 
- ## UI/UX Design Planning
+## UI/UX Design Planning
 
 ### Design Goals
 The primary goal of the UI/UX design is to create an intuitive and visually appealing interface that enhances the user experience. The design will focus on:
@@ -43,12 +43,40 @@ The primary goal of the UI/UX design is to create an intuitive and visually appe
 | **Listing Detailed View** | Provides in-depth information about a selected property, including photos, reviews, and amenities.       |
 | **Simple Checkout View**  | Streamlines the booking process with user input for payment and confirmation details.                    |
 
-### Importance of a User-Friendly Design
-A user-friendly design is critical for a booking system because:
-- It reduces friction, enabling users to complete tasks quickly and efficiently.
-- Enhances user satisfaction, encouraging repeat use and positive feedback.
-- Minimizes errors by providing clear instructions and feedback during interactions.
-- Builds trust through consistent and predictable design patterns.
+---
 
-By focusing on these principles, the design aims to offer a seamless and enjoyable experience for all users.
+### UI/UX Design Properties
 
+#### Color Styles
+- **Primary Color**: #FF385C (Bright Pink)
+- **Secondary Color**: #00A699 (Teal Green)
+- **Neutral Colors**: 
+  - Dark Gray: #484848
+  - Light Gray: #F5F5F5
+  - White: #FFFFFF
+- **Accent Color**: #FFB400 (Golden Yellow)
+
+#### Typography
+- **Font Family**: 
+  - Primary: `Montserrat`
+  - Secondary: `Roboto`
+- **Font Weights**:
+  - Regular: 400
+  - Medium: 500
+  - Bold: 700
+- **Font Sizes**:
+  - Headings: 32px, 24px
+  - Subheadings: 18px
+  - Body Text: 16px
+  - Small Text: 12px
+
+---
+
+### Importance of Identifying Design Properties
+Understanding the design properties of a mockup is critical for several reasons:
+1. **Consistency**: Ensures that the final product aligns with the visual identity and design language of the application.
+2. **Collaboration**: Provides a common reference point for designers, developers, and stakeholders.
+3. **Efficiency**: Speeds up the development process by reducing the need for guesswork.
+4. **Accessibility**: Helps maintain readability and usability across different platforms and devices.
+
+By clearly defining color styles, typography, and other design elements, we can maintain a cohesive and user-friendly design throughout the project.
